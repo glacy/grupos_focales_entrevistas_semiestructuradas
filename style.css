@@ -37,9 +37,9 @@ h2 {
   text-align: center;
    }
   
-/*div {
+div {
 	border-style: inset;
-}*/
+}
 .flex-parent {
   display: flex;
   flex-direction: column;
@@ -49,6 +49,7 @@ h2 {
   height: 100%;
   margin: auto;
   /*min-height: 500px;*/
+  padding: 80px;
   }
 
 .input-flex-container {
